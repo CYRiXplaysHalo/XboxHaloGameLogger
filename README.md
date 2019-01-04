@@ -14,7 +14,6 @@ A script to keep tracking of game statistics with Halo 1 for the original xbox.
 I did almost none of the heavy lifting on this. Xbox7887 & JayFoxRox helped me figure out how to set up QMP, read memory addresses, and told me where to go at pretty much every step. Devieth and Mintograde helped me out by sharing some of their knowledge from Halo 1 and Halo PC.
 
 # TODO
-- Add map name, xbox name, and gametype name offsets
 - Find assists stat offset
 - Find player count memory address
 - Test system link matches
