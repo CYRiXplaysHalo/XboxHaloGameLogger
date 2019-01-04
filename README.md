@@ -10,7 +10,7 @@ I did almost none of the heavy lifting on this. Xbox7887 & JayFoxRox helped me f
   - Player Datum Array Pointer: 0x2FAD28
   - Object Header Datum Array Pointer: 0x2FC6AC
   - Team Slayer Red Score: 0x276710
-  - Team Slayer Blue Score: 0x27614
+  - Team Slayer Blue Score: 0x276714
   
 - Datum Array Header Fields:
   - Name Offset: 0x0
