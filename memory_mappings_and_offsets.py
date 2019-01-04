@@ -3,6 +3,13 @@ Player_Datum_Array_Pointer = 0x2FAD28
 Object_Header_Datum_Array_Pointer = 0x2FC6AC
 Team_Slayer_Red_Score_Address = 0x276710
 Team_Slayer_Blue_Score_Address  = 0x276714
+Gametype_Name_Address = 0x2FBA80                 # Will update after gametype is select in menu
+Gametype_Name_Address_2 = 0x2FBEEC               # Will update after gametype is select in menu
+Xbox_Name_Address = 0x2FB9DC                    
+Xbox_Name_Address_2 = 0x2FBE48                   
+Xbox_Name_Address_3 = 0x2FBF5C                   
+Map_Name_Address = 0x2FBA00                      # Will update when choosing map from menu
+Map_Name_Address = 0x2FBE6C                      # Will update when choosing map from menu
 
 #Datum_Array_Header_Fields (found by Xbox7887):
 Datum_Array_Name_Offset = 0x0
