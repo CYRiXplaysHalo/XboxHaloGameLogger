@@ -2,7 +2,7 @@
 A script to keep tracking of game statistics with Halo 1 for the original xbox.
 
 # Credits
-I did almost none of the heavy lifting on this. Xbox7887 & JayFoxRox helped me figure out how to set up XboxPy, read memory addresses, and told me where to go at pretty much every step. Devieth and Mintograde helped me out by sharing some of their knowledge from Halo 1 and Halo PC.
+I did almost none of the heavy lifting on this. Xbox7887 & JayFoxRox helped me figure out how to set up XboxPy, read memory addresses, and told me where to go at pretty much every step. Devieth and Mintograde helped me out by sharing some of their knowledge from Halo 1 and Halo PC. The qmp.py file came from here: https://github.com/xqemu/xqemu-manager/commit/f59a545009318ab79a66f2d826dc2b1539207c1f
 
 # Notes
 
